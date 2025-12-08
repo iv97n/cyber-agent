@@ -1,0 +1,3 @@
+[submodule "cyberbattle"]
+	path = cyberbattle
+	url = https://github.com/microsoft/CyberBattleSim.git
